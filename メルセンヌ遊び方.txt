@@ -5,7 +5,7 @@ share/Build内のmersennneDraft.exeを実行
 横矢印キー　横移動
 Spaceキー　 ジャンプ
 ctrlキー	　ショット
-上矢印キー　ショット切り替え
+上下矢印キー　ショット切り替え
 
 メルセンヌUnityファイル参照先
 https://github.com/masu14/Mersenne/tree/refactoringBarrier
