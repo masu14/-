@@ -159,6 +159,7 @@ Library: lib_burst_generated
 --root-assembly=C:\Users\masur\OneDrive\デスクトップ\メルセンヌ(仮)\unity\Mersenne\Temp\StagingArea\Data\Managed\Unity.Services.Core.Device.dll
 --root-assembly=C:\Users\masur\OneDrive\デスクトップ\メルセンヌ(仮)\unity\Mersenne\Temp\StagingArea\Data\Managed\Unity.Services.Core.Analytics.dll
 --root-assembly=C:\Users\masur\OneDrive\デスクトップ\メルセンヌ(仮)\unity\Mersenne\Temp\StagingArea\Data\Managed\Unity.2D.IK.Runtime.dll
+--root-assembly=C:\Users\masur\OneDrive\デスクトップ\メルセンヌ(仮)\unity\Mersenne\Temp\StagingArea\Data\Managed\Unity.Recorder.dll
 --root-assembly=C:\Users\masur\OneDrive\デスクトップ\メルセンヌ(仮)\unity\Mersenne\Temp\StagingArea\Data\Managed\Assembly-CSharp.dll
 --root-assembly=C:\Users\masur\OneDrive\デスクトップ\メルセンヌ(仮)\unity\Mersenne\Temp\StagingArea\Data\Managed\Unity.2D.Tilemap.Extras.dll
 --root-assembly=C:\Users\masur\OneDrive\デスクトップ\メルセンヌ(仮)\unity\Mersenne\Temp\StagingArea\Data\Managed\Unity.Services.Core.Threading.dll
@@ -170,6 +171,7 @@ Library: lib_burst_generated
 --root-assembly=C:\Users\masur\OneDrive\デスクトップ\メルセンヌ(仮)\unity\Mersenne\Temp\StagingArea\Data\Managed\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll
 --root-assembly=C:\Users\masur\OneDrive\デスクトップ\メルセンヌ(仮)\unity\Mersenne\Temp\StagingArea\Data\Managed\Unity.RenderPipelines.Core.ShaderLibrary.dll
 --root-assembly=C:\Users\masur\OneDrive\デスクトップ\メルセンヌ(仮)\unity\Mersenne\Temp\StagingArea\Data\Managed\Unity.InternalAPIEngineBridge.001.dll
+--root-assembly=C:\Users\masur\OneDrive\デスクトップ\メルセンヌ(仮)\unity\Mersenne\Temp\StagingArea\Data\Managed\Unity.Recorder.Base.dll
 --root-assembly=C:\Users\masur\OneDrive\デスクトップ\メルセンヌ(仮)\unity\Mersenne\Temp\StagingArea\Data\Managed\Unity.RenderPipelines.Universal.Shaders.dll
 --assembly-folder=C:\Users\masur\OneDrive\デスクトップ\メルセンヌ(仮)\unity\Mersenne\Temp\StagingArea\Data\Managed\
 --pdb-search-paths=Temp/ManagedSymbols/
@@ -347,6 +349,7 @@ Library: lib_burst_generated
 --root-assembly=C:\Users\masur\OneDrive\デスクトップ\メルセンヌ(仮)\unity\Mersenne\Temp\StagingArea\Data\Managed\Unity.Services.Core.Device.dll
 --root-assembly=C:\Users\masur\OneDrive\デスクトップ\メルセンヌ(仮)\unity\Mersenne\Temp\StagingArea\Data\Managed\Unity.Services.Core.Analytics.dll
 --root-assembly=C:\Users\masur\OneDrive\デスクトップ\メルセンヌ(仮)\unity\Mersenne\Temp\StagingArea\Data\Managed\Unity.2D.IK.Runtime.dll
+--root-assembly=C:\Users\masur\OneDrive\デスクトップ\メルセンヌ(仮)\unity\Mersenne\Temp\StagingArea\Data\Managed\Unity.Recorder.dll
 --root-assembly=C:\Users\masur\OneDrive\デスクトップ\メルセンヌ(仮)\unity\Mersenne\Temp\StagingArea\Data\Managed\Assembly-CSharp.dll
 --root-assembly=C:\Users\masur\OneDrive\デスクトップ\メルセンヌ(仮)\unity\Mersenne\Temp\StagingArea\Data\Managed\Unity.2D.Tilemap.Extras.dll
 --root-assembly=C:\Users\masur\OneDrive\デスクトップ\メルセンヌ(仮)\unity\Mersenne\Temp\StagingArea\Data\Managed\Unity.Services.Core.Threading.dll
@@ -358,6 +361,7 @@ Library: lib_burst_generated
 --root-assembly=C:\Users\masur\OneDrive\デスクトップ\メルセンヌ(仮)\unity\Mersenne\Temp\StagingArea\Data\Managed\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll
 --root-assembly=C:\Users\masur\OneDrive\デスクトップ\メルセンヌ(仮)\unity\Mersenne\Temp\StagingArea\Data\Managed\Unity.RenderPipelines.Core.ShaderLibrary.dll
 --root-assembly=C:\Users\masur\OneDrive\デスクトップ\メルセンヌ(仮)\unity\Mersenne\Temp\StagingArea\Data\Managed\Unity.InternalAPIEngineBridge.001.dll
+--root-assembly=C:\Users\masur\OneDrive\デスクトップ\メルセンヌ(仮)\unity\Mersenne\Temp\StagingArea\Data\Managed\Unity.Recorder.Base.dll
 --root-assembly=C:\Users\masur\OneDrive\デスクトップ\メルセンヌ(仮)\unity\Mersenne\Temp\StagingArea\Data\Managed\Unity.RenderPipelines.Universal.Shaders.dll
 --assembly-folder=C:\Users\masur\OneDrive\デスクトップ\メルセンヌ(仮)\unity\Mersenne\Temp\StagingArea\Data\Managed\
 --pdb-search-paths=Temp/ManagedSymbols/
