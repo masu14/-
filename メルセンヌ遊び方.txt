@@ -8,4 +8,4 @@ ctrlキー	　ショット
 上下矢印キー　ショット切り替え
 
 メルセンヌUnityファイル参照先
-https://github.com/masu14/Mersenne/tree/refactoringBarrier
+https://github.com/masu14/Mersenne
