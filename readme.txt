@@ -1,9 +1,7 @@
-実行ファイル
-share/Build内のmersennneDraft.exeを実行
 
-ソースコード
-share内のMersenne.slnを実行
-または、Assets/Scripts内のファイルを実行
+実行ファイルはbin内のmersennneDraft.exeを実行してください
+ゲームの動作紹介動画はmovie.mp4を実行してください
+ソースコードはScripts内のファイルを実行してください
 
 ゲームの遊び方
 A,Dキー　	  横移動
